@@ -1,0 +1,171 @@
+{
+  "status": "success",
+  "threads": [
+    {
+      "id": "20o7etptqp",
+      "participants": [
+        {
+          "id": "ms1vjkjezu",
+          "gender": "male",
+          "name": {
+            "title": "Mr",
+            "first": "Rakesh",
+            "last": "Katti"
+          },
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/86.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+          }
+        },
+        {
+          "id": "rglsc2fh7k",
+          "gender": "male",
+          "name": {
+            "title": "Mr",
+            "first": "Pavan",
+            "last": "S B"
+          },
+          "email": "",
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/95.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+          }
+        }
+      ],
+      "messages": [
+        {
+          "type": "text",
+          "participant_id": "ms1vjkjezu",
+          "content": "Hello"
+        },
+        {
+          "type": "text",
+          "participant_id": "ms1vjkjezu",
+          "content": "Whats up"
+        },
+        {
+          "type": "text",
+          "participant_id": "rglsc2fh7k",
+          "content": "Hi Buddy"
+        },
+        {
+          "type": "text",
+          "participant_id": "rglsc2fh7k",
+          "content": "How are you doing?"
+        },
+        {
+          "type": "text",
+          "participant_id": "rglsc2fh7k",
+          "content": "When are we meeting?"
+        }
+      ]
+    },
+    {
+      "id": "of9znvflq7",
+      "participants": [
+        {
+          "id": "ms1vjkjezu",
+          "gender": "male",
+          "name": {
+            "title": "Mr",
+            "first": "Rakesh",
+            "last": "Katti"
+          },
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/86.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+          }
+        },
+        {
+          "id": "cut2hewxlr",
+          "gender": "male",
+          "name": {
+            "title": "Mr",
+            "first": "Bharath",
+            "last": "S V"
+          },
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/98.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+          }
+        }
+      ],
+      "messages": [
+        {
+          "type": "text",
+          "participant_id": "cut2hewxlr",
+          "content": "Hello! 🙂"
+        },
+        {
+          "type": "text",
+          "participant_id": "ms1vjkjezu",
+          "content": "Hello 👋"
+        }
+      ]
+    },
+    {
+      "id": "e540hrndg8",
+      "participants": [
+        {
+          "id": "ms1vjkjezu",
+          "gender": "male",
+          "name": {
+            "title": "Mr",
+            "first": "Rakesh",
+            "last": "Katti"
+          },
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/86.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+          }
+        },
+        {
+          "id": "clyj77t7oo",
+          "gender": "male",
+          "name": {
+            "title": "Mr",
+            "first": "Niranjan",
+            "last": "T"
+          },
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/12.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+          }
+        }
+      ],
+      "messages": [
+        {
+          "type": "text",
+          "participant_id": "ms1vjkjezu",
+          "content": "Good morning"
+        },
+        {
+          "type": "text",
+          "participant_id": "clyj77t7oo",
+          "content": "Hello, Morning"
+        },
+        {
+          "type": "text",
+          "participant_id": "ms1vjkjezu",
+          "content": "What plans?"
+        },
+        {
+          "type": "text",
+          "participant_id": "clyj77t7oo",
+          "content": "Nothing much.."
+        },
+        {
+          "type": "text",
+          "participant_id": "clyj77t7oo",
+          "content": "Lets go watch the movie?"
+        }
+      ]
+    }
+  ]
+}
